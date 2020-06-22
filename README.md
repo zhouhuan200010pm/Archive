@@ -27,5 +27,6 @@ Other message:
 3. After the first time you run the program, it will save the username and it will not ask for permission again
 4. This app is safe, it just didn't verified through google
 5. The password is hidden when you type it in the terminal, don't worry if you didn't see them
+6. Becareful when adding an event in the past, because the program can put multiple same event into the calendar whenever you run the program again
 
 I wish you have a great time using this program!
