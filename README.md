@@ -23,7 +23,10 @@ With all these set, we are ready to run! To run:
 
 Other message:
 1. We need the Email from the library to create the event, so it will only run with the specific input from the library with the title "library checkout receipt"
-2. If you recieved a problem where it doesn't have "All Done! Press 'Enter' to quit!" as the program finish but the terminal just close itself, then you should check if any step goes wrong, you can always delete the '.pickle' file to request the permission again.
+2. If you recieved a problem where it doesn't have "All Done! Press 'Enter' to quit!" as the program finish but the terminal just close itself, then you should check if any step goes wrong, you can always delete the '.pickle' file to request the permission again. The Problems can be: (You can check the first one and then go down one by one)
+    - Wrong Password
+    - Didn't enable the 'imap' service and the less secure app permission
+    - Lack of the enviornment needed
 3. After the first time you run the program, it will save the username and it will not ask for permission again
 4. This app is safe, it just didn't verified through google
 5. The password is hidden when you type it in the terminal, don't worry if you didn't see them
